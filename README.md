@@ -6,6 +6,8 @@
 
 - 👤 **User Profiles**
   Create and manage researcher profiles with name, bio, institution, and research interests.
+  ![{496F8507-C3AF-4122-AE4C-B213BBF3D318}](https://github.com/user-attachments/assets/a6927d34-81e8-4c0c-aad2-2a443d3eb25e)
+
 
 - 📚 **Research Paper Repository**
   Upload, tag, search, and manage your personal collection of research papers.
