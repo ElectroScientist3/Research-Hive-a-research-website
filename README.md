@@ -35,11 +35,11 @@ For Frontend:
 
 5. Open folder in Vscode. install required extension such[PHP Server by brapifra,PHP Intelephense by Ben Mewburn intelephense.com,live]
 
-That's all for frontend Now just past this link (or serve this project will also take you to the homepage)  http://localhost/ResearcherHive/home.php
+That's all for frontend Now just paste this link (or serve this project will also take you to the homepage)  http://localhost/ResearcherHive/home.php
 
 FOR BACKEND:
 
-1. open Xaamp and create a database any name make sure to change db_connect file to your database information such as
+1. open Xaamp and create a database any name make sure to change db_connect file to your database information such as....
 $servername = "localhost";
 $username = "root";
 $password = "";
