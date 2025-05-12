@@ -21,6 +21,8 @@
 
 - **Profile-visit**
   User can visit other researcher profiles and can download their repository.
+  ![{2AF25A6A-DF73-4CBD-A25D-EA823F1CD480}](https://github.com/user-attachments/assets/ce5e9725-9ca2-456f-8b7b-3013f4386f5f)
+
 
 ## 🔧 Installation
 For Frontend:
